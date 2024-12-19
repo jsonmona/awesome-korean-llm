@@ -17,8 +17,8 @@
 |                 [komt](https://github.com/davidkim205/komt)                  |             7B, 13B             |   [davidkim205](https://github.com/davidkim205)    |       llama-2       |     ✅     |    [🤗 Huggingface](https://huggingface.co/davidkim205/komt-Llama-2-13b-hf)     |
 | [llama-2-korean](https://huggingface.co/quantumaikr/llama-2-70b-fb16-korean) |          7B, 13B, 70B           |     [(주)퀀텀아이](https://github.com/quantumaikr)      |       llama-2       |     ✅     |  [🤗 Huggingface](https://huggingface.co/quantumaikr/llama-2-70b-fb16-korean)   |
 |             [KoreanLM](https://github.com/quantumaikr/KoreanLM)              |            1.5B, 3B             |     [(주)퀀텀아이](https://github.com/quantumaikr)      |          ❓          |     ✅     |          [🤗 Huggingface](https://huggingface.co/quantumaikr/KoreanLM)          |
-|              [KoRMKV](https://huggingface.co/beomi/KoRWKV-1.5B)              |            1.5B, 6B             |         [beomi](https://github.com/Beomi)          |       RMKVv4        |     ❓     |           [🤗 Huggingface](https://huggingface.co/beomi/KoRWKV-1.5B)            |
-|      [KoAlpaca-KoRMKV](https://huggingface.co/beomi/KoAlpaca-KoRWKV-6B)      |            1.5B, 6B             |         [beomi](https://github.com/Beomi)          |       KoRMKV        |     ❓     |           [🤗 Huggingface](https://huggingface.co/beomi/KoRWKV-1.5B)            |
+|              [KoRWKV](https://huggingface.co/beomi/KoRWKV-1.5B)              |            1.5B, 6B             |         [beomi](https://github.com/Beomi)          |       RWKVv4        |     ❓     |           [🤗 Huggingface](https://huggingface.co/beomi/KoRWKV-1.5B)            |
+|      [KoAlpaca-KoRWKV](https://huggingface.co/beomi/KoAlpaca-KoRWKV-6B)      |            1.5B, 6B             |         [beomi](https://github.com/Beomi)          |       KoRWKV        |     ❓     |           [🤗 Huggingface](https://huggingface.co/beomi/KoRWKV-1.5B)            |
 |                 [KoGPT](https://github.com/kakaobrain/kogpt)                 |               6B                |      [카카오브레인](https://github.com/kakaobrain)       |          ❓          |     ❌     | [🤗 Huggingface](https://huggingface.co/kakaobrain/kogpt/tree/KoGPT6B-ryan1.5b) |
 |                  [KoGPT2](https://github.com/SKT-AI/KoGPT2)                  |              1.5B               |          [SKT](https://github.com/SKT-AI)          |        GPT-2        |     ❌     |                                        ❓                                        |
 |    [Llama-2-ko-7b-Chat](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)     |               7B                |    [taemin6697](https://github.com/taemin6697)     |       llama-2       |     ✅     |        [🤗 Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)        |
@@ -62,8 +62,8 @@
 ### 3. 기타
 
 - [KoVicuna](https://github.com/melodysdreamj/KoVicuna)
-- [KoRMKV](https://huggingface.co/beomi/KoRWKV-1.5B)
-- [KoAlpaca-KoRMKV](https://huggingface.co/beomi/KoAlpaca-KoRWKV-6B)
+- [KoRWKV](https://huggingface.co/beomi/KoRWKV-1.5B)
+- [KoAlpaca-KoRWKV](https://huggingface.co/beomi/KoAlpaca-KoRWKV-6B)
 - [KoGPT](https://github.com/kakaobrain/kogpt)
 - [KoGPT2](https://github.com/SKT-AI/KoGPT2)
 - [KoreanLM](https://github.com/quantumaikr/KoreanLM)
